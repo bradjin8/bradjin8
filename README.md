@@ -2,7 +2,7 @@
 
 <p align='center'>
 <a href="https://twitter.com/xingjin319"><img height="30" src="https://github.com/headit74/headit74/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/headit74/headit74/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/xing-jin-2642351a0"><img height="30" src="https://github.com/headit74/headit74/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 Hey there 👋,
