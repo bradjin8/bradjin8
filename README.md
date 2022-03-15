@@ -1,12 +1,6 @@
 # [![headit74 header](https://github.com/headit74/headit74/blob/main/image/gh-banner.png?raw=true)](https://github.com/headit74)
 
-<p align='center'>
-<a href="https://twitter.com/xingjin319"><img height="30" src="https://github.com/headit74/headit74/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/xing-jin-2642351a0"><img height="30" src="https://github.com/headit74/headit74/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
 
-Hey there 👋,
-
-I am a senior full stack Web|Mobile|Desktop app developer who has 7 years of work experience. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.  You can see a full list of what I am up to.  If you have any project to do, please don't hesitate to contact me. I would love to hear you.
+With seven years of software development experience, headit74 have contributed to projects small and large, demonstrating his professionalism with unmatched quality and reliability. As a professional developer, he understands all the project requirements and always finds the best way to implement them to a high-quality standard. He is proficient in modern web languages and always focuses on project structures and coding style.
 
 ---
