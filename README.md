@@ -7,4 +7,4 @@ With seven years of software development experience, headit74 has contributed to
 
 ![headit74's GitHub stats](https://github-readme-stats.vercel.app/api?username=headit74&show_icons=true&count_private=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=headit74)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=headit74)
