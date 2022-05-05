@@ -5,4 +5,4 @@ With seven years of software development experience, headit74 has contributed to
 
 ---
 
-![headit74's GitHub stats](https://github-readme-stats.vercel.app/api?username=headit74&show_icons=true)
+![headit74's GitHub stats](https://github-readme-stats.vercel.app/api?username=headit74&show_icons=true&count_private=true)
