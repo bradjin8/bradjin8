@@ -5,6 +5,6 @@ With seven years of software development experience, I have contributed to proje
 
 ---
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zamarlancer&show_icons=true&count_private=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bjin9&show_icons=true&count_private=true&theme=radical)
 
 
