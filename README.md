@@ -5,14 +5,11 @@ With seven years of software development experience, I have contributed to proje
 
 ---
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bjin9&show_icons=true&count_private=true&theme=radical)
 
 
 <p align="center">
-<a href="https://github.com/Timon0305">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Timon0305&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Timon0305&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/bjin9">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bjin9&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bjin9&layout=compact&langs_count=8&theme=radical"/>
 </a>
-
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=Timon0305&theme=radical&hide_border=true)
 </p>
