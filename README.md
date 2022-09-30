@@ -10,6 +10,6 @@ With seven years of software development experience, I have contributed to proje
 <p align="center">
 <a href="https://github.com/bjin9">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bjin9&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bjin9&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bjin9&layout=compact&langs_count=8&theme=radical&count_private=true"/>
 </a>
 </p>
