@@ -5,12 +5,6 @@ With seven 7 of software development experience, I have contributed to projects 
 
 ---
    
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+software+developer;I+am+blockchain+Developer...;)](https://git.io/typing-svg)
-  
-
-</h1>
 
 <h2>[WEB & MOBILE]</h2>  
  I have 6 years of experience  in Andorid/iOS applications integrating with backend. Over all these years I accomplished amazing 20 + mobile projects successfully.
