@@ -23,32 +23,23 @@ With seven 7 of software development experience, I have contributed to projects 
     &nbsp; &nbsp;      4.  Cloud backend: Firebase, Amazon S3 EC2 AWS
    
  <br>
-    &nbsp; &nbsp;    5. Chat & Messaging Engine: XMPP, OpenFire, OpenTok WebRTC
- 
-  <br>
-     &nbsp; &nbsp;     6.  Media Streaming: Wowza, SoundCloud, Red5, Icecast
-
- <br>
-    &nbsp; &nbsp;       7. Video/audio/image processing: OpenCV, CoreAudio, AVFoundation   - VOIP, Cloud 
+    &nbsp; &nbsp;       5. Video/audio/image processing: OpenCV, CoreAudio, AVFoundation   - VOIP, Cloud 
 	Communication: Twillio, Heroku, Tokbox
 
  <br>
-    &nbsp; &nbsp;    8. Speech recognition, text-to-speech, Siri, OpenEar
-  
- <br>
-    &nbsp; &nbsp;     9. HTML5, PHP, Javascript and their frameworks
+    &nbsp; &nbsp;     6. HTML5, PHP, Javascript and their frameworks
  
  <br>
-    &nbsp; &nbsp;     10.  MySQL, SQLite, PostgreSQL, MongoDB, GraphQL
+    &nbsp; &nbsp;     7.  MySQL, SQLite, PostgreSQL, MongoDB, GraphQL
 
  <br>
-    &nbsp; &nbsp;    11. Facebook, Twitter, Linkedin, Instagram, Youtube, Pinterest, Vimeo
+    &nbsp; &nbsp;    8. Facebook, Twitter, Linkedin, Instagram, Youtube, Pinterest, Vimeo
   
  <br>
-    &nbsp; &nbsp;     12. Google Map, Foursquare, Geolocation, GPS, Open Street Maps
+    &nbsp; &nbsp;     9. Google Map, Foursquare, Geolocation, GPS, Open Street Maps
  
 
- <br>    &nbsp; &nbsp;     13. JIRA, Trello, Github, BitBucket, Gitlab
+ <br>    &nbsp; &nbsp;     10. JIRA, Trello, Github, BitBucket, Gitlab
 
 
 <h2>[BLOCKCHAIN]</h2>
