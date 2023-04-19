@@ -1,12 +1,12 @@
-# React / React Native Developer
+# Full Stack Developer
 
-Hi! I'm a full stack developer with experience in React and React Native. I specialize in developing high-performance, interactive applications. I have extensive knowledge of the React ecosystem, including React Router, Redux, and related libraries.
+Hi! I'm a full stack developer with 7 years of work experience. I specialize in developing high-performance, interactive applications. I have extensive knowledge of the React ecosystem, including React Router, Redux, and related libraries.
 
 I'm passionate about solving problems with clean code and elegant design. 
 
 My goal is to create user-friendly applications that are both visually appealing and easy to use. I strive to stay up to date with the latest technologies in the React and React Native space.
 
-If you're looking for a React / React Native developer with an eye for detail and a passion for creating great user experiences, please reach out to me. I'd love to hear about your project!
+If you're looking for a developer with an eye for detail and a passion for creating great user experiences, please reach out to me. I'd love to hear about your project!
 
 
 <p align="center">
