@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
+<h1 align="center">Hi there
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+software+developer;I+am+blockchain+Developer...;)](https://git.io/typing-svg)
   
@@ -83,21 +83,21 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Timon0305}/count.svg" alt="Timon0305 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{bjin9}/count.svg" alt="Timon0305 :: Visitor's Count" /></p>
 
 <h2 align=""> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Statistics:</h2>
 
 
 <p align="center">
-<a href="https://github.com/Timon0305">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Timon0305&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Timon0305&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/bjin9">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bjin9&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bjin9&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <p align="center">
-<img align="center" height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=Timon0305&theme=radical&hide_border=true)" alt="Timon0305's github stats" />
+<img align="center" height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=bjin9&theme=radical&hide_border=true)" alt="bjin9's github stats" />
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timon0305&layout=compact&theme=radical" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjin9&layout=compact&theme=radical" />
 
 
 
@@ -106,12 +106,10 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 </p>
 <p align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Timon0305&show_icons=true&include_all_commits=true&theme=radical" alt="Timon0305's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bjin9&show_icons=true&include_all_commits=true&theme=radical" alt="bjin9's github stats" />
 </p>
 
 
-
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Timon0305/Timon0305/blob/main/profile-3d-contrib/profile-night-rainbow.svg"><img src="https://github.com/Timon0305/Timon0305/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile" style="max-width: 100%;"></a></p>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Github Activity
@@ -120,29 +118,19 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 <p align="center" dir="auto" style="text-align:center;">
 
 
-   <img alig src="https://github-profile-trophy.vercel.app/?username=Timon0305&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+   <img alig src="https://github-profile-trophy.vercel.app/?username=bjin9&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Happy Writing
 
-<p align="center">
-  <a>
-    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  </a>
-  <a>
-    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-  </a>
-
-</p>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
 
 
 <p align="center">
-  <a href='https://github.com/Timon0305/'>
+  <a href='https://github.com/bjin9/'>
     <img width="75%" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.svg"/>
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.detailed.svg" width="75%"/>
   </a>
@@ -259,16 +247,4 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 </table>
 
 
-<div  align="left">
-<h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;  Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-<br />
- <div align="left">
-<p>
-Skype - https://join.skype.com/invite/uU331IODpYlM
-</p>
-<p>
-Outlook - <a href="mailto:timon0305@outlook.com">timon0305@outlook.com</a>
-</p>
-</div>
-</div>
