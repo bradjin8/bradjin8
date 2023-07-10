@@ -1,6 +1,6 @@
 # Full Stack Developer
 
-Hi! I'm a full stack developer with 7 years of work experience. I specialize in developing high-performance, interactive applications. I have extensive knowledge of the React ecosystem, including React Router, Redux, and related libraries.
+Hi! I'm a full stack developer with 8 years of work experience. I specialize in developing high-performance, interactive applications. I have extensive knowledge of the React ecosystem, including React Router, Redux, and related libraries.
 
 I'm passionate about solving problems with clean code and elegant design. 
 
