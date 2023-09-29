@@ -1,4 +1,4 @@
-# Full Stack Developer
+# Hi
 
 Hi! I'm a full stack developer with 8 years of work experience. I specialize in developing high-performance, interactive applications. I have extensive knowledge of the React ecosystem, including React Router, Redux, and related libraries.
 
@@ -11,6 +11,6 @@ If you're looking for a developer with an eye for detail and a passion for creat
 
 <p align="center">
 <a href="https://github.com/bjin9">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bjin9&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bradjin8&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </a>
 </p>
