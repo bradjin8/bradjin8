@@ -10,7 +10,13 @@ If you're looking for a developer with an eye for detail and a passion for creat
 
 
 <p align="center">
-<a href="https://github.com/bjin9">
+<a href="https://github.com/bradjin8">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bradjin8&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </a>
 </p>
+
+<img src="https://myreadme.vercel.app/api/embed/bradjin8?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bradjin8&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bradjin8&theme=juicyfresh&no-bg=true" />
+
+<a href="https://drive.google.com/file/d/1rqGAAgXRP__7CLPrW-0l-nZAiYPIYDJD/view?usp=drive_link"></a>
