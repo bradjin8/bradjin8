@@ -19,4 +19,6 @@ If you're looking for a developer with an eye for detail and a passion for creat
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bradjin8&theme=tokyonight" alt="mystreak"/>
 <img src="https://github-profile-trophy.vercel.app/?username=bradjin8&theme=juicyfresh&no-bg=true" />
 
+<!-- Follow me on instagram --
 <a href="https://drive.google.com/file/d/1rqGAAgXRP__7CLPrW-0l-nZAiYPIYDJD/view?usp=drive_link"></a>
+<!-- -->
