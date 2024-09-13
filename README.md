@@ -15,7 +15,7 @@ If you're looking for a developer with an eye for detail and a passion for creat
 </a>
 </p>
 
-<img src="https://myreadme.vercel.app/api/embed/bradjin8?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<!-- <img src="https://myreadme.vercel.app/api/embed/bradjin8?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bradjin8&theme=tokyonight" alt="mystreak"/>
 <img src="https://github-profile-trophy.vercel.app/?username=bradjin8&theme=juicyfresh&no-bg=true" />
 
