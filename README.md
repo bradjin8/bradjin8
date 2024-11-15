@@ -13,11 +13,6 @@ Figma | Frontend | Backend | Web3 | Smart Contract
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bradjin8&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </a>
 </p>
-
-<!-- <img src="https://myreadme.vercel.app/api/embed/bradjin8?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /> -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bradjin8&theme=tokyonight" alt="mystreak"/>
-</p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bradjin8&theme=juicyfresh&no-bg=true" />
 </p>
