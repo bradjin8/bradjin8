@@ -1,6 +1,6 @@
 # Hi, culers!
 
-I'm a full stack developer with 8 years of professional work experience. I specialize in developing high-performance, interactive applications.
+I'm a full stack developer with 9 years of professional work experience. I specialize in developing high-performance, interactive applications.
 
 I'm passionate about solving problems with clean code and elegant design. 
 
