@@ -72,10 +72,6 @@ Hireable — open to teams serious about using AI to build better software, fast
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bradjin8&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </a>
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bradjin8&theme=juicyfresh&no-bg=true" />
-</p>
-
 <!-- Follow me on instagram --
 <a href="https://drive.google.com/file/d/1rqGAAgXRP__7CLPrW-0l-nZAiYPIYDJD/view?usp=drive_link"></a>
 <!-- -->
