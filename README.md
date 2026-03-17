@@ -61,7 +61,7 @@ spent on the problems that actually require human judgment.
 - Privacy-first, locally-run AI tooling and developer intelligence platforms
 - Applied RAG for domain-specific knowledge retrieval
 - Backend infrastructure: observability, extensible plugin systems, auth
-- C++ ecosystem tooling and Boost library research
+- C++ ecosystem tooling and library research
 
 ---
 
